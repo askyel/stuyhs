@@ -59,3 +59,18 @@ change in supply: shift of supply curve, changes quantity supplied at any given 
 
 competitive market: no individual's actions can influence price of good or service
 
+### Equilibrium
+
+equilibrium price: price that matches quantity supplied and demanded
+
+equilibrium quantity: quantity of goods bought/sold at equilibrium price
+
+equilibrium point = intersection of supply and demand curves
+
+surplus: occurs when quantity supplied exceeds quantity demanded
+
+shortage: occurs when quantity demanded exceeds quantity supplied
+
+### Changes in Equilibrium
+
+
