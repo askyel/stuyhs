@@ -28,6 +28,29 @@ change in demand: shift of demand curve, changes quantity demanded at any given 
 
 ## Supply
 
+quantity supplied: actual amount of a good or service producers would sell at specific price
+
+supply curve: visualizes relationship between quantity supplied and price
+
+**Law of Supply**: the higher the price of a good or service, the higher its quantity supplied
+
+movements along supply curve: change in quantity supplied resulting from change in price
+
+change in supply: shift of supply curve, changes quantity supplied at any given price
+* increase in supply = rightward shift of supply curve
+* increase in demand = leftward shift of supply curve
+
+### Factors That Shift the Supply Curve
+1. changes in input prices
+	* increase in input prices -> decreases supply
+2. changes in prices of related goods or services
+	* increase in price of substitute -> decreases supply
+	* increase in price of complement -> increases supply
+3. changes in technology
+4. changes in expectations
+	* expect future increase -> decreases supply 
+	* expect future decrease -> increases supply
+
 ## Supply and Demand Model
 
 ![model] (images/supply_and_demand_model.gif)
