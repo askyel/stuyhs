@@ -2,7 +2,7 @@
 
 ## Demand Curve 
 
-quantity demanded: actual amount of a good or service consumers would buy at a specific price
+quantity demanded: actual amount of a good or service consumers would buy at a specific price  
 demand curve: visualizes relationship between quantity demanded and price
 
 ## Supply
