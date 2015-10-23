@@ -16,8 +16,8 @@ change in demand: shift of demand curve, changes quantity demanded at any given 
 
 ### Factors That Shift the Demand Curve 
 1. changes in prices of related goods or services  
-..* increase in price of substitute -> increases demand
-..* increase in price of complement -> decreases demand
+	* increase in price of substitute -> increases demand
+	* increase in price of complement -> decreases demand
 2. changes in 
 
 ## Supply
