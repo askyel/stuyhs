@@ -23,6 +23,7 @@ change in demand: shift of demand curve, changes quantity demanded at any given 
 	* inferior good: rise in income -> decreases demand
 3. changes in tastes
 4. changes in expectations
+	* expect future price increase -> increases demand
 5. changes in the number of consumers
 	* market demand curve: horizontal sum of all individual demand curves 
 
@@ -48,8 +49,9 @@ change in supply: shift of supply curve, changes quantity supplied at any given 
 	* increase in price of complement -> increases supply
 3. changes in technology
 4. changes in expectations
-	* expect future increase -> decreases supply 
-	* expect future decrease -> increases supply
+	* expect future price increase -> decreases supply 
+5. changes in the number of producers
+	* market supply curve: horizontal sum of all individual supply curves
 
 ## Supply and Demand Model
 
