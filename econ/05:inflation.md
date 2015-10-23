@@ -18,3 +18,19 @@ real interest rate = nominal interest rate - inflation rate
 
 *if inflation rate is higher than expected* -> borrowers gain  
 *if inflation rate is lower than expected* -> lenders gain
+
+disinflation: process of reducing inflation rate
+
+### Calculation of Inflation
+
+aggregate price level = measure of overall prices in economy
+
+market basket = hypothetical set of consumer purchases of goods and services
+
+price index = cost of market basket in given year / cost of market basket in base year
+
+consumer price index: measures cost of market basket of typical urban American family
+
+producer price index: measures changes in prices of goods and services purchased by producers
+
+GPA deflator = 100 * nominal GDP / real GDP
