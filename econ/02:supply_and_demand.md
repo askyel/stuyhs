@@ -8,6 +8,6 @@ competitive market: no individual's actions can influence price of good or servi
 
 ## Supply and Demand Model
 
-[model]: images/supply_and_demand_model.gif
+![model] (images/supply_and_demand_model.gif)
 
 
