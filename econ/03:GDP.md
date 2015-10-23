@@ -31,6 +31,7 @@ inventories: stocks of goods and raw materials held to facilitate business opera
 investment spending: spending on new physical capital  
 final goods and services: goods and services sold to final/end user  
 intermediate goods and services: goods and services used as inputs  
+aggregate spending = total spending on domestically produced final goods and services
 
 ## Gross Domestic Product
 
@@ -66,3 +67,15 @@ GDP = C + I + G + X - IM
 * used goods
 * financial assets, e.g. stocks and bonds
 * foreign-produced goods and services
+
+### Real GDP
+
+aggregate output: total quantity of final goods and services produced
+
+real GDP: total value of final goods and services, calculated using base year prices
+
+nominal GDP: total value of final goods and services, calculated using current prices
+
+chain-linking: calculate change in real GDP using average of growth rate calculated with early and late base year
+
+GDP per capita: GDP divided by size of population
