@@ -21,7 +21,7 @@ government transfers: payments to individuals without anything in return
 disposable income = household income - taxes + government transfers  
 private savings = dispoable income - consumer spending   
 financial markets: banking, stock, and bond markets  
-	* private savings and foreign lending -> investment spending, government borrowing, foreign borrowing 
+* private savings and foreign lending -> investment spending, government borrowing, foreign borrowing 
 
 government borrowing: amount of funds borrowed by government in financial markets  
 exports: goods and services sold to other countries  
@@ -52,3 +52,16 @@ GDP = C + I + G + X - IM
 * IM = imports
 * X - IM = net exports 
 
+### Components of GDP
+
+*Included*
+* **domestically produced** final goods and services 
+	* capital goods
+	* new construction of structures
+	* changes to inventories
+*Not Included*
+* intermediate goods and services
+* inputs
+* used goods
+* financial assets, e.g. stocks and bonds
+* foreign-produced goods and services
