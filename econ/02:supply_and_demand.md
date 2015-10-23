@@ -18,7 +18,13 @@ change in demand: shift of demand curve, changes quantity demanded at any given 
 1. changes in prices of related goods or services  
 	* increase in price of substitute -> increases demand
 	* increase in price of complement -> decreases demand
-2. changes in 
+2. changes in income
+	* normal good: rise in income -> increases demand
+	* inferior good: rise in income -> decreases demand
+3. changes in tastes
+4. changes in expectations
+5. changes in the number of consumers
+	* market demand curve: horizontal sum of all individual demand curves 
 
 ## Supply
 
