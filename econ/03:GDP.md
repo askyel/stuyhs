@@ -59,6 +59,7 @@ GDP = C + I + G + X - IM
 	* capital goods
 	* new construction of structures
 	* changes to inventories
+
 *Not Included*
 * intermediate goods and services
 * inputs
