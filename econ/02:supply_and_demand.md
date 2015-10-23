@@ -73,8 +73,9 @@ shortage: occurs when quantity demanded exceeds quantity supplied
 
 ### Changes in Equilibrium
 
-|            | supply inc              | supply dec |                         |   |
-|------------|-------------------------|------------|-------------------------|---|
-| demand inc | quantity inc            | price inc  | price inc, quantity inc |   |
-| demand dec | price dec               | demand dec | price dec, quantity dec |   |
-|            | price dec, quantity inc |            |                         |   |
+|                | supply inc              | supply dec              |                         |
+|----------------|-------------------------|-------------------------|-------------------------|
+| **demand inc** | quantity inc            | price inc               | price inc, quantity inc |
+| **demand dec** | price dec               | demand dec              | price dec, quantity dec |
+|                | price dec, quantity inc | price inc, quantity dec |                         |
+
