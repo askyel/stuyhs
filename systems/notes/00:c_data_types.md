@@ -2,7 +2,8 @@
 
 All C primitives are numeric.
 
-'sizeof(<TYPE>)' finds size of specified type in bytes
+	sizeof(<TYPE>) 
+finds size of specified type in bytes
 
 Type | Standard Size (bytes)
 --- | ---
