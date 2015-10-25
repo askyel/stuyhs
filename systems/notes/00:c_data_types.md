@@ -26,5 +26,7 @@ e.g. "hello"
 Variable types declared as **unsigned** will not be negative.  
 The lower bound of any unsigned variable is 0.  
 The upper bound of any unsigned variable is greater than the signed version.  
-e.g. unsigned char x;	sizeof(x) is between 0 and 255
+e.g. unsigned char x;	sizeof(x) is between 0 and 255  
 e.g. char x;		sizeof(x) is between -128 and 127
+
+
