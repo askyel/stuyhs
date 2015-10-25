@@ -1,6 +1,8 @@
 # 06: Aggregate Demand
 
-<sub><sup>increased investment spending -> increased income and aggregate output -> increased disposable income -> increased consumer spending -> increased firm output -> ... </sup></sub> 
+## The Multiplier
+
+increased investment spending -> increased income and aggregate output -> increased disposable income -> increased consumer spending -> increased firm output -> ... 
 
 marginal propensity to consume (MPC): increase in consumer spending when disposable income rises by $1    
 MPC = &Delta; Consumer spending / &Delta; Disposable income 
@@ -11,5 +13,12 @@ MPS = 1 - MPC
 increase in investment spending = $100 billion  
 second-round increase in consumer spending = MPC * $100 billion  
 third-round increase in consumer spending = MPC<sup>2</sup> * $100 billion ...  
-- - - 
-total increase in GDP = (1 + MPC + MPC<sup>2</sup> + ...) * $100 billion
+-> total increase in GDP = (1 + MPC + MPC<sup>2</sup> + ...) * $100 billion = 1/(1 - MPC) * $100 billion 
+
+autonomous change in aggregate spending: initial rise or fall in aggregate spending, causes series of income/spending changes
+
+multiplier: ratio of total change in real GDP caused by autonomous change in aggregate spending to size of autonomous change  
+&Delta; Real GDP = 1/(1 - MPC) * &Delta; Autonomous change in aggregate spending  
+multiplier = 1/(1 - MPC)
+
+## Consumer Spending
