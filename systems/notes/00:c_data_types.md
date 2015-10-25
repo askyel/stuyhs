@@ -2,8 +2,7 @@
 
 All C primitives are numeric.
 
-	sizeof(<TYPE>) 
-finds size of specified type in bytes
+	sizeof(<TYPE>) // finds size of specified type in bytes
 
 Type | Standard Size (bytes)
 --- | ---
@@ -13,4 +12,7 @@ long | 8
 float | 4
 double | 8
 char | 1 
-	
+
+All boolean values are values.  
+0 => false  
+anything else => true
