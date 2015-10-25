@@ -33,4 +33,14 @@ aggregate consumption function: relationship for economy as a whole between aggr
 
 ### Shifts of Aggregate Consumption Function
 
+aggregate consumption function shifts when something other than disposable income changes
 
+*changes in expected future disposable income*: expected increase causes upward shift of consumption function  
+permanent income hypothesis: consumer spending depends on income people expect to have rather than their current income 
+
+*changes in aggregate wealth*: wealth increase causes upward shift of consumption function  
+life-cycle hypothesis: consumers plan spending over their lifetime, not just in response to current disposable income
+
+## Investment Spending
+
+planned investment spending: 
