@@ -43,4 +43,6 @@ life-cycle hypothesis: consumers plan spending over their lifetime, not just in 
 
 ## Investment Spending
 
-planned investment spending: 
+planned investment spending: investment spending that businesses intend to undertake during given period
+
+higher interest rates -> lower investment spending
