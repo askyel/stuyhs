@@ -1,4 +1,4 @@
-# Forces
+# 04: Forces
 
 force: a push or pull on an object
 
@@ -15,4 +15,7 @@ Magnetic force (F<sub>B</sub>)
 
 ### Gravitational Force (Weight)
 *towards planet center*
+	W = mg
+	F = GmM/r^2
+G: universal Gravitational constant
 

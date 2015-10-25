@@ -1,0 +1,3 @@
+# 06: Aggregate Demand
+
+increased investment spending -> increased income and aggregate output -> increased disposable income -> increased consumer spending -> increased firm output -> ... 

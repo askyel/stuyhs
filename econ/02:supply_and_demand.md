@@ -1,6 +1,6 @@
 # 02: Supply and Demand
 
-## Demand Curve 
+## Demand  
 
 quantity demanded: actual amount of a good or service consumers would buy at a specific price 
  
