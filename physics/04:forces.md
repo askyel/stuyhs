@@ -3,5 +3,6 @@
 force: a push or pull on an object
 
 ## Types of Forces
-- Gravitational force (F<sup>g</sup>)
+- Gravitational force (F<sub>g</sub>)
+- 
 
