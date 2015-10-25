@@ -29,7 +29,7 @@ autonomous consumer spending: amount of money household would spend if it had no
 
 aggregate consumption function: relationship for economy as a whole between aggregate current disposable income and aggregate consumer spending
 
-![auto_consump_func] (images/auto_consump_func)
+![auto_consump_func] (images/auto_consump_func.gif)
 
 ### Shifts of Aggregate Consumption Function
 
