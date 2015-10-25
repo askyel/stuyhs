@@ -22,3 +22,15 @@ multiplier: ratio of total change in real GDP caused by autonomous change in agg
 multiplier = 1/(1 - MPC)
 
 ## Consumer Spending
+
+consumption function: equation showing how individual household's consumer spending varies with the household's current disposable income
+
+autonomous consumer spending: amount of money household would spend if it had no disposable income  
+
+aggregate consumption function: relationship for economy as a whole between aggregate current disposable income and aggregate consumer spending
+
+![auto_consump_func] (images/auto_consump_func)
+
+### Shifts of Aggregate Consumption Function
+
+
