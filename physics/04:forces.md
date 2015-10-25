@@ -12,3 +12,7 @@ Friction force (F<sub>f</sub>)
 Drag force (F<sub>D</sub>)  
 Electric force (F<sub>e</sub>)  
 Magnetic force (F<sub>B</sub>)  
+
+### Gravitational Force (Weight)
+*towards planet center*
+
