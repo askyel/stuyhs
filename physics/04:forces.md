@@ -15,7 +15,9 @@ Magnetic force (F<sub>B</sub>)
 
 ### Gravitational Force (Weight)
 *towards planet center*  
-	W = mg
-	$F = GmM/r^2$  
+W = mg  
+F = GmM/r^2   
 G: universal Gravitational constant
+
+
 
