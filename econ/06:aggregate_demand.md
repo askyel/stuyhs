@@ -57,4 +57,5 @@ inventory investment: value of change in total inventories
 unplanned inventory investment: 
 + actual sales < expected, positive inventory investment 
 + actual sales > expected, negative inventory investment  
+
 actual investment spending = planned investment spending + unplanned inventory investment
