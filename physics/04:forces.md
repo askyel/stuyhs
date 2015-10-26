@@ -77,6 +77,11 @@ T - mgcos&theta; = mv<sup>2</sup>/L
 mgsin&theta; = ma<sub>t</sub>
 
 ##### Conical Pendulum
+![conical_pendulum] (images/conical_pendulum.png)  
+Tcos&theta; = mg  
+Tsin&theta; = mv<sup>2</sup>/r  
+v = &radic;(rgtan&theta;)  
+T = d/v -> T = 2&pi;&radic;(Lcos&theta;/g)
 
 #### Contact Forces
 ![contact_force] (images/contact_force.gif)  
