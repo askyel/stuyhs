@@ -48,3 +48,7 @@ F<sub>netx</sub> = ma<sub>x</sub> -> mgsin&theta; = F<sub>f<sub>S</sub></sub>
 F<sub>nety</sub> = ma<sub>y</sub> -> mgcos&theta; = F<sub>N</sub>  
 tan&theta; &le; &mu;<sub>S</sub>
 
+#### Atwood Machine
+![atwood_machine] (images/atwood_machine.gif)
+T - mg = ma  
+Mg - T = Ma 
