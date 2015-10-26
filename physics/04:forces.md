@@ -72,6 +72,9 @@ F<sub>N</sub>sin&theta; = mv<sup>2</sup>/r
 v = &radic;(rgtan&theta;)
 
 ##### Simple Pendulum
+![pendulum] (images/pendulum.gif)  
+T - mgcos&theta; = mv<sup>2</sup>/L  
+mgsin&theta; = ma<sub>t</sub>
 
 ##### Conical Pendulum
 
