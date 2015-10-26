@@ -49,6 +49,11 @@ F<sub>nety</sub> = ma<sub>y</sub> -> mgcos&theta; = F<sub>N</sub>
 tan&theta; &le; &mu;<sub>S</sub>
 
 #### Atwood Machine
-![atwood_machine] (images/atwood_machine.gif)
+![atwood_machine] (images/atwood_machine.gif)  
 T - mg = ma  
 Mg - T = Ma 
+
+#### Elevator
+![elevator] (images/elevator.png)  
+*+a*: F<sub>N</sub> = m(g + a)  
+*-a*: F<sub>N</sub> = m(g - a)
