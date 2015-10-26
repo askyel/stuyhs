@@ -25,9 +25,20 @@ kinetic: for objects in motion; F<sub>f<sub>K</sub></sub> = &mu;<sub>K</sub>F<su
 &mu;<sub>S</sub> &ge; &mu;<sub>K</sub>  
 ![friction_force] (images/friction_force.png)
 
-Drag force (F<sub>D</sub>)  
-Electric force (F<sub>e</sub>)  
-Magnetic force (F<sub>B</sub>)  
+**Drag force (F<sub>D</sub>)**: force opposite to direction of motion in fluid or gas  
+F<sub>D</sub> = bv or bv<sup>2</sup>
+
+**Electric force (F<sub>e</sub>)**: attractive/repulsive interaction between charged objects
+
+**Magnetic force (F<sub>B</sub>)**: force exerted by moving charges
+
+## Newton's Laws of Motion
+
+**1st Law: Law of Inertia**: object at rest stays at rest, object in motion stays in motion, unless there is an external force
+
+**2nd Law: F = ma**: force is the product of an object's mass and acceleration
+
+**3rd Law: Action-Reaction**: every action has an equal and opposite reaction
 
 
 
