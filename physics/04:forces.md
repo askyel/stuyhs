@@ -59,13 +59,17 @@ Mg - T = Ma
 *-a*: F<sub>N</sub> = m(g - a)
 
 #### Circular Motion
+
+##### Flat Surface
 ![circular_motion] (images/circular_motion.gif)  
 F<sub>f<sub>S</sub></sub> = mv<sup>2</sup>/r  
 v = &radic;(&mu;<sub>S</sub>gr) 
 
-##### Flat Surface
-
-##### Banked Smooth Surface
+##### Banked Curve
+![banked_smooth] (images/banked_smooth.gif)  
+F<sub>N</sub>cos&theta; = mg  
+F<sub>N</sub>sin&theta; = mv<sup>2</sup>/r  
+v = &radic;(rgtan&theta;)
 
 ##### Simple Pendulum
 
