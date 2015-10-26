@@ -7,11 +7,25 @@
 + applied with bitwise negation on the mask, then bitwise anding it to the mode  
 	+ new_permissions = ~mask &amp; mode
 + default mask is 022, which shuts off write permissions for group and other  
-'''
+```
 umask( &lt;MASK&gt; );  
 umask(0000);
-'''
+```
 + define umask using a 3 digit octal #
 
 **lseek** - &lt;unistd.h&gt;
 + set the current position
+
+lseek( <FILE_DESCRIPTOR>, <OFFSET>, <WHENCE> )
+offset
+number of bytes to move the position by
+can be negative
+whence
+where to measure offset from
+SEEK_SET
+offset is evaluated from beginning of file
+SEEK_CUR
+offset is relative to current position in file
+SEEK_END
+offset is evaluated from end of file
+returns number of bytes the current positionis from the beginning of the file, or -1 (errno)
