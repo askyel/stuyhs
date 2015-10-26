@@ -42,5 +42,9 @@ F<sub>D</sub> = bv or bv<sup>2</sup>
 
 ## Applications of Newton's 2nd Law
 
-
+#### Inclined Plane
+![inclined_plane] (images/inclined_plane.png)  
+F<sub>netx</sub> = ma<sub>x</sub> -> mgsin&theta; = F<sub>f<sub>S</sub></sub>  
+F<sub>nety</sub> = ma<sub>y</sub> -> mgcos&theta; = F<sub>N</sub>  
+tan&theta; &le; &mu;<sub>S</sub>
 
