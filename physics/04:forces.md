@@ -57,3 +57,7 @@ Mg - T = Ma
 ![elevator] (images/elevator.png)  
 *+a*: F<sub>N</sub> = m(g + a)  
 *-a*: F<sub>N</sub> = m(g - a)
+
+#### Contact Forces
+![contact_force] (images/contact_force.gif)  
+
