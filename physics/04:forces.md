@@ -34,11 +34,13 @@ F<sub>D</sub> = bv or bv<sup>2</sup>
 
 ## Newton's Laws of Motion
 
-**1st Law: Law of Inertia**: object at rest stays at rest, object in motion stays in motion, unless there is an external force
+**1st Law (Law of Inertia)**: object at rest stays at rest, object in motion stays in motion, unless there is an external force
 
-**2nd Law: F = ma**: force is the product of an object's mass and acceleration
+**2nd Law (F = ma)**: force is the product of an object's mass and acceleration
 
-**3rd Law: Action-Reaction**: every action has an equal and opposite reaction
+**3rd Law (Action-Reaction)**: every action has an equal and opposite reaction
+
+## Applications of Newton's 2nd Law
 
 
 
