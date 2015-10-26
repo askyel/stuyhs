@@ -59,6 +59,9 @@ Mg - T = Ma
 *-a*: F<sub>N</sub> = m(g - a)
 
 #### Circular Motion
+![circular_motion] (images/circular_motion.gif)  
+F<sub>f<sub>S</sub></sub> = mv<sup>2</sup>/r  
+v = &radic;(&mu;<sub>S</sub>gr) 
 
 ##### Flat Surface
 
