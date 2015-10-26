@@ -61,3 +61,12 @@ Mg - T = Ma
 #### Contact Forces
 ![contact_force] (images/contact_force.gif)  
 F - F<sub>f</sub> = (m<sub>1</sub> + m<sub>2</sub>)a
+
+#### Drag Force 
+![drag_force] (images/drag_force.gif)  
+mg - bv = ma<sub>y</sub>  
+v = mg/b * (1 - e<sup>-bt/m</sup>)  
++ if b &lt;&lt; m: v = gt
++ if t -> &infin;: v = mg/b; terminal velocity
+
+
