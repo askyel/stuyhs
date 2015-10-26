@@ -14,8 +14,8 @@ Electric force (F<sub>e</sub>)
 Magnetic force (F<sub>B</sub>)  
 
 ### Gravitational Force (Weight)
-*towards planet center*
+*towards planet center*  
 	W = mg
-	$F = GmM/r^2$
+	$F = GmM/r^2$  
 G: universal Gravitational constant
 
