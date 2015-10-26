@@ -22,6 +22,7 @@ opposite to applied force on spring
 **Friction force (F<sub>f</sub>)**: force opposite to direction of motion  
 static: for objects at rest; F<sub>f<sub>S</sub></sub> &le; &mu;<sub>S</sub>F<sub>N</sub>  
 kinetic: for objects in motion; F<sub>f<sub>K</sub></sub> = &mu;<sub>K</sub>F<sub>N</sub>
+![friction_force] (images/friction_force.png)
 
 Drag force (F<sub>D</sub>)  
 Electric force (F<sub>e</sub>)  
