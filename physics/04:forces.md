@@ -15,8 +15,13 @@ G: universal Gravitational constant
 
 **Applied force (F<sub>a</sub>)**: in touch with object
 
-Spring force (F<sub>s</sub>)  
-Friction force (F<sub>f</sub>)  
+**Spring force (F<sub>s</sub>)**: force on spring when compressed or stretched
+Hooke's Law: F<sub>S</sub> = -kx 
+opposite to applied force on spring
+
+**Friction force (F<sub>f</sub>)**: force opposite to direction of motion  
+static: for objects at rest  F<sub>f<sub>S</sub></sub> &le; &Mu;<sub>S</sub>F<sub>N</sub>
+
 Drag force (F<sub>D</sub>)  
 Electric force (F<sub>e</sub>)  
 Magnetic force (F<sub>B</sub>)  
