@@ -47,10 +47,18 @@ actual unemployment = natural unemployment + cyclical unemployment
 	- labor unions 
 	- side effects of public policy
 - other rigidities prevent matching workers to jobs
-	- skills mismatch
-	- geographic mismatch
+	- skills mis-match
+	- geographic immobility
 
 **Model 2: efficiency wages paid to keep cost of job loss up, keep effort up (labor extraction)**
 - Janet Yellen (current Fed chair)
 - employers can "elicit more work by paying above-market wages"
 - but when many firms pay efficiency wages, threat of *unemployment* is motivator
+- allow firm to pay less for management (oversight of employees)
+
+**Model 3: Labor-saving technological as endogenous, dynamic**
+- firms speed up labor-saving technological change when wages rise
+	- increases "reserve army of the unemployed"
+	- puts downward pressure on wages
+	- labor becomes relatively cheaper, reducing incentive for labor-saving technological change
+- historically, people have feared technological change eliminating people's jobs, destroying current economic system 
