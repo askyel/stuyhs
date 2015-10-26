@@ -4,3 +4,5 @@ umask - &lt;sys/stat.h&gt;
 + set the file creation permission mask
 + by default, created files are not given the exact permissions provided in the mode argument to open
 + mask is applied that automatically shuts off certain permissions
++ applied with bitwise negation on the mask, then bitwise anding it to the mode  
+	+ new_permissions = ~mask &amp; mode
