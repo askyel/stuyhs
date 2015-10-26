@@ -46,3 +46,15 @@ life-cycle hypothesis: consumers plan spending over their lifetime, not just in 
 planned investment spending: investment spending that businesses intend to undertake during given period
 
 higher interest rates -> lower investment spending
+
+higher expected GDP -> higher investment spending
+
+higher current production capacity -> lower investment spending
+
+inventories: stocks of goods held to satisfy future sales
+
+iventory investment: value of change in total inventories  
+unplanned inventory investment: 
++ actual sales < expected, positive inventory investment 
++ actual sales > expected, negative inventory investment
+actual investment spending = planned investment spending + unplanned inventory investment
