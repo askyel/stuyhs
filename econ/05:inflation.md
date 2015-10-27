@@ -37,4 +37,4 @@ GPA deflator = 100 * nominal GDP / real GDP
 
 ### Disinflation
 
-![inflation_unemployment_rate] (images/inflation_unemployment_rate)
+![inflation_unemployment_rate] (images/inflation_unemployment_rate.jpg)
