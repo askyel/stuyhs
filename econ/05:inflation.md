@@ -34,3 +34,7 @@ consumer price index: measures cost of market basket of typical urban American f
 producer price index: measures changes in prices of goods and services purchased by producers
 
 GPA deflator = 100 * nominal GDP / real GDP
+
+### Disinflation
+
+![inflation_unemployment_rate] (images/inflation_unemployment_rate)
