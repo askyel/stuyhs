@@ -62,3 +62,10 @@ actual unemployment = natural unemployment + cyclical unemployment
 	- puts downward pressure on wages
 	- labor becomes relatively cheaper, reducing incentive for labor-saving technological change
 - historically, people have feared technological change eliminating people's jobs, destroying current economic system 
+
+## Monopsony Model
+
+*non-competitive labor market*: firms have market power as buyers in labor market
++ according to model, more competitive the labor market, higher the wages (ceteris paribus)
++ firms are "wage-takers"
++ empirical evidence suggests that minimum wage would have to be much higher to cause unemployment

@@ -79,3 +79,4 @@ shortage: occurs when quantity demanded exceeds quantity supplied
 | **demand dec** | price dec               | demand dec              | price dec, quantity dec |
 |                | price dec, quantity inc | price inc, quantity dec |                         |
 
+
