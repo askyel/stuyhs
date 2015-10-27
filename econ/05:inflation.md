@@ -38,3 +38,19 @@ GPA deflator = 100 * nominal GDP / real GDP
 ### Disinflation
 
 ![inflation_unemployment_rate] (images/inflation_unemployment_rate.jpg)
+
+disinflation: lowering inflation rate 
+
+Manufactured Recession
++ during Reagan's first term, made policy choice to increase interest rates dramatically, causing recession  
++ "Teflon President" Reagan reelected regardless, even though citizens unhappy ("Born in the USA")
+
+Rust Belt
++ US region from Northeast to Midwestern states
++ once industrial "heartland", but deindustrialized - transfer of manufacturing to Southwest  
+
+### Deflation
+
+Williams Jennings Bryan: wanted to stop deflation, not cause inflation
+
+![historical_inflation] (images/historical_inflation.png)
