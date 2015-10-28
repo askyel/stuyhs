@@ -1,5 +1,18 @@
 # 06: Aggregate Demand
 
+## Determinants of Spending
+
+disposable income: income from all revenue streams after taxes are paid  
+dissaving: borrowing or reduction in saving
+
+DI = C + S
++ DI: disposable income  
++ C: consumption expenditure
++ S: saving
+
+household income divided into 5 quintiles
+![incomes] (images/incomes.gif)
+
 ## The Multiplier
 
 increased investment spending -> increased income and aggregate output -> increased disposable income -> increased consumer spending -> increased firm output -> ... 
