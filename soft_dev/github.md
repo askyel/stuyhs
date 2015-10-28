@@ -8,9 +8,9 @@ can create new branch off of current branch
 
 `$ git branch <branch_name>` :: creates new branch, local at this stage
 
-2. $ git checkout <branch_name> :: goes into branch
+`$ git checkout <branch_name>` :: goes into branch
 
-3. $ git branch --set-upstream-to=origin/<github_name> <branch_name> :: links to github branch
+`$ git branch --set-upstream-to=origin/<github_name> <branch_name>` :: links to github branch
 
 # Pull Requests
 
