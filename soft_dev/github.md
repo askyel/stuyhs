@@ -6,7 +6,7 @@ all repos automatically start in master branch
 
 can create new branch off of current branch
 
-1. &#36; git branch <branch_name> :: creates new branch, local at this stage
+1. `$ git branch <branch_name>` :: creates new branch, local at this stage
 
 2. $ git checkout <branch_name> :: goes into branch
 
