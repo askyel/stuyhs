@@ -17,4 +17,10 @@ stat("foo", &sb);
 		    + user id, group id
 		+ st_mode
 		    + file permissions
-+  
+		+ st_atime, st_mtime
+		    + last access, last modification
+		    + these are struct time_t variables, usable in time.h to make sense of them
+		    + **ctime( &lt;struct time_t *&gt; )
+			+ returns the time as a string
+		    + **time( &lt;struct time_t *&gt; )
+			+ sets the parameter to the current time
