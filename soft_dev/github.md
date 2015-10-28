@@ -12,7 +12,9 @@ can create new branch off of current branch
 
 `$ git branch --set-upstream-to=origin/<github_name> <branch_name>` :: links to github branch
 
-# Pull Requests
+files exist separately in different branches
+
+## Pull Requests
 
 1. create new repository 
 
