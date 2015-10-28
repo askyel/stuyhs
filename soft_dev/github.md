@@ -52,3 +52,15 @@ automatically merged with master
 4. pull locally
 
 ## Forks
+
+## Tags
+
+## Issues 
+
+raise issue to point out problem in code  
+
+can be assigned to a team member (collaborator)
+
+apply label - enhancement, help, bug, etc.
+
+close issue when dealt with
