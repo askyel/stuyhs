@@ -43,7 +43,8 @@ consumption function: equation showing how individual household's consumer spend
 
 autonomous consumer spending: amount of money household would spend if it had no disposable income  
 
-aggregate consumption function: relationship for economy as a whole between aggregate current disposable income and aggregate consumer spending
+aggregate consumption function: relationship for economy as a whole between aggregate current disposable income and aggregate consumer spending   
+aggregate consumption function: C = A + MPC * DI
 
 ![auto_consump_func] (images/auto_consump_func.gif)
 
