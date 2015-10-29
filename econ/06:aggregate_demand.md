@@ -24,7 +24,7 @@ marginal propensity to save (MPS): increase in household savings when disposable
 MPS = &Delta; Consumer saving / &Delta; Disposable income 
 
 1 = MPC + MPS (MPC and MPS are between 0 and 1)   
-![mpc_mps] (images/mpc_mps)
+![mpc_mps] (images/mpc_mps.gif)
 
 increase in investment spending = $100 billion  
 second-round increase in consumer spending = MPC * $100 billion  
