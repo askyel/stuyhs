@@ -11,7 +11,8 @@ shoe-leather costs: increased costs of transactions due to inflation
 menu costs: real costs of changing listed prices  
 unit-of-account costs: arise because inflation makes money less reliable unit of measurement
 
-nominal interest rate: interest rate actually paid for a loan
+nominal interest rate: interest rate actually paid for a loan  
+nominal interest - inflation = real interest rate
 
 real interest rate: nominal interest rate adjusted for inflation  
 real interest rate = nominal interest rate - inflation rate

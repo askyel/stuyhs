@@ -58,6 +58,18 @@ permanent income hypothesis: consumer spending depends on income people expect t
 *changes in aggregate wealth*: wealth increase causes upward shift of consumption function  
 life-cycle hypothesis: consumers plan spending over their lifetime, not just in response to current disposable income
 
+## Aggregate Expenditures
+
+"initial change in spending"  
+price level is exogenous value  
+determined by all variables, other than disposable income level, which affect total spending level  
+
+AE = C + I + G + (X - M)  
+
+**Keynesian Cross**
+
+![keynesian] (images/keynesian.gif
+
 ## Investment Spending
 
 planned investment spending: investment spending that businesses intend to undertake during given period
