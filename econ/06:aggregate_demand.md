@@ -66,9 +66,10 @@ determined by all variables, other than disposable income level, which affect to
 
 AE = C + I + G + (X - M)  
 
-**Keynesian Cross**
-
-![keynesian] (images/keynesian.gif
+**Keynesian Cross**  
+![keynesian] (images/keynesian.gif)  
+equilibrium represented by 45deg line  
+total expenditures = total income
 
 ## Investment Spending
 
