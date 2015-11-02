@@ -78,7 +78,7 @@ total expenditures = total income
 slope of aggregate expenditure line is MPC  
 
 ![keynesian_gap] (images/keynesian_gap.gif)  
-recessionary gap: amt by which output is too low
+recessionary gap: amount by which output is too low
 
 ## Investment Spending
 
