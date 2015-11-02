@@ -36,8 +36,11 @@ autonomous change in aggregate spending: initial rise or fall in aggregate spend
 
 multiplier: ratio of total change in real GDP caused by autonomous change in aggregate spending to size of autonomous change  
 &Delta; Real GDP = 1/(1 - MPC) * &Delta; Autonomous change in aggregate spending  
-&Delta;Y = 1/(1 - MPC) * &Delta;A   
-multiplier = &Delta;Y/&Delta;A = 1/(1 - MPC)
+&Delta;Y = 1/(1 - MPC) * &Delta;A = 1/MPS * &Delta;A   
+multiplier = &Delta;Y/&Delta;A = 1/(1 - MPC)  
+minimize change -> MPC = 0  
+maximize change -> MPC = 1  
+MPC and multiplier have *direct* relationship 
 
 ## Consumer Spending
 
