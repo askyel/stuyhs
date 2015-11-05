@@ -98,3 +98,16 @@ unplanned inventory investment:
 + actual sales > expected, negative inventory investment  
 
 actual investment spending = planned investment spending + unplanned inventory investment
+
+factors that cause investment spending to decrease:
++ increased interest rate  
++ decreased capitol goods
+ 
+## Aggregate Demand Curve 
+
+while income was indp variable for consumption function, income is exogenous for demand function 
+
+Why is aggregate demand curv downward sloping?  
+Wealth Effect: value of wealth increases, spending increases  
+Interest Rate Effect:  
+Foreign Purchases Effect:  
