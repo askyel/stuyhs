@@ -110,4 +110,15 @@ while income was indp variable for consumption function, income is exogenous for
 Why is aggregate demand curv downward sloping?  
 Wealth Effect: value of wealth increases, spending increases  
 Interest Rate Effect:  
-Foreign Purchases Effect:  
+Foreign Purchases Effect: 
+
+### Shifts of Aggregate Demand Function
+
+delta C, I, G, X - M  
+expectations  
+wealth  
+capital utilization rate  
+fiscal policy  
+monetary policy (interest rate)   
+
+## Aggregate Supply Curve 
