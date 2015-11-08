@@ -1,7 +1,5 @@
 # 05: Work and Energy
 
-## Work, KE, and PE
-
 ### Work
 
 For a constant force:  
@@ -20,15 +18,17 @@ W = &int;Fx&middot;dx + &int;Fy&middot;dy
 
 W = &int;F&middot;dr  
 
-KE = 1/2 * mv<sup>2</sup>
+### Work-Kinetic Energy Theorem
 
-## Work-Kinetic Energy Theorem
+KE = 1/2 * mv<sup>2</sup>
 
 W = &Delta;KE  
 *always valid*
 
-### Power (P)
+#### Power (P)
 
 P<sub>avg</sub> = &Delta;W/&Delta;t  
 
 P<sub>inst</sub> = dW/dt
+
+**Units**: J/s = Watt, 1 horsepower = 746 Watts
