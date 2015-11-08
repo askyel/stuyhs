@@ -95,3 +95,5 @@ center of mass: point at which mass is concentrated, at center of uniform object
 ### Point Masses 
 
 ![cm_points] (images/cm_points.gif)
+
+![vcm_points] (images/vcm_points.gif)
