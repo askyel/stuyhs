@@ -2,4 +2,13 @@
 
 ## Work-Kinetic Energy Theorem
 
-W = &Delta;KE *always valid*
+KE = 1/2 * mv<sup>2</sup>
+
+W = &Delta;KE  
+*always valid*
+
+### Power (P)
+
+P<sub>avg</sub> = &Delta;W/&Delta;t  
+
+P<sub>inst</sub> = dW/dt
