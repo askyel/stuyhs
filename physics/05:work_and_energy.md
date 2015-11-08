@@ -84,4 +84,4 @@ if F is constant:
 &Delta;P = F&delta;t  
 
 if F is varying:  
-&Delta;P = <MATH>&int;_t<sub>i</sub>_^t<sub>f</sub>^Fdt</MATH>
+&Delta;P = <MATH>&int;_t<sub>i</sub>_^t<sub>f</sub>^{F} dt</MATH>
