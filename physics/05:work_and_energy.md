@@ -84,4 +84,14 @@ if F is constant:
 &Delta;P = F&delta;t  
 
 if F is varying:  
-&Delta;P = <MATH>&int;_t<sub>i</sub>_^t<sub>f</sub>^{F} dt</MATH>
+&Delta;P = &int;Fdt = I (impulse)
+
+contact time -> when 2 objects touch
+
+## Center of Mass
+
+center of mass: point at which mass is concentrated, at center of uniform objects 
+
+### Point Masses 
+
+![cm_points] (images/cm_points.gif)
