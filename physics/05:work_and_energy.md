@@ -74,3 +74,14 @@ minimum or maximum U: du/dx = 0
 momentum: product of mass and velocity  
 p = mv  
 **Units**: kg*m/s
+
+F = dP/dt  
+
+in an isolated system:  
+momentum before collision = momentum after collision 
+
+if F is constant:  
+&Delta;P = F&delta;t  
+
+if F is varying:  
+&Delta;P = <MATH>&int;_t<sub>i</sub>_^t<sub>f</sub>^Fdt</MATH>
