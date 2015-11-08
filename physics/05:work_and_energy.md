@@ -68,3 +68,9 @@ F = -du/dx i - du/dy j - du/dz k
 
 minimum or maximum U: du/dx = 0  
 ![equilibrium] (images/equilibrium.jpg)
+
+## Momentum
+
+momentum: product of mass and velocity  
+p = mv  
+**Units**: kg*m/s
