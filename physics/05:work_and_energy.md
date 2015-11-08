@@ -11,7 +11,7 @@ For a varying force:
 W = &int;Fdx  
 W = &int;kxdx = 1/2 * kx<sup2</sup>
 
-![work_graph] (images/work_graph.png)
+![work_graph] (images/work_graph.gif)
 
 KE = 1/2 * mv<sup>2</sup>
 
