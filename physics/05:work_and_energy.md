@@ -54,3 +54,17 @@ work is path dependent
 W = &Delta;KE  
 W = W<sub>C</sub> + W<sub>NC</sub>  
 E<sub>i</sub> + W<sub>NC</sub> = E<sub>f</sub>
+
+## Work vs. Change in Potential Energy
+
+&Delta;U = - &int;F&middot;  
+
+*for 1 dimension:*  
+U = -&int;Fx&middot;dx  
+Fx = -du/dx
+
+*for 3 dimensions:*  
+F = -du/dx i - du/dy j - du/dz k  
+
+minimum or maximum U: du/dx = 0  
+![equilibrium] (images/equilibrium.jpg)
