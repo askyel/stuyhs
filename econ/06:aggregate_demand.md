@@ -120,5 +120,3 @@ wealth
 capital utilization rate  
 fiscal policy  
 monetary policy (interest rate)   
-
-## Aggregate Supply Curve 
