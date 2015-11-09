@@ -6,6 +6,7 @@ aggregate supply curve: shows relationshp between aggregate price level and quan
 
 in short run, positive relationship between aggregate price level and quantity of aggregate output supplied
 
+profit = revenue - costs  
 profit per unit = price per unit - production per unit
 
 wages are largest source of inflexible production cost  
@@ -25,11 +26,11 @@ commodity: standardized input bought/sold in bulk quantities
 increase in commodity price -> SRAS curve shifts left  
 decrease in commodity price -> SRAS curve shifts right
 
-### Changes in Nominal Wages
+#### Changes in Nominal Wages
 increase in nominal wages -> SRAS curve shifts left  
 decrease in nominal wages -> SRAS curve shifts right  
 
-### Changes in Productivity
+#### Changes in Productivity
 increase in productivity -> SRAS curve shits right  
 decrease in productivity -> SRAS curve shifts left
 
