@@ -88,14 +88,20 @@ if F is varying:
 
 contact time -> when 2 objects touch
 
-## Center of Mass
+### Center of Mass
 
 center of mass: point at which mass is concentrated, at center of uniform objects 
 
-### Point Masses 
+#### Point Masses 
 
 ![cm_points] (images/cm_points.gif)
 
 ![vcm_points] (images/vcm_points.gif)
 
 ![vpcm_points] (images/vpcm_points.gif)
+
+![acm_points] (images/acm_points.gif)
+
+#### Extended Object 
+
+![cm_object] (images/cm_object.gif)
