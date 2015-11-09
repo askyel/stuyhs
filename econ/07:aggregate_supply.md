@@ -16,8 +16,6 @@ wages are largest source of inflexible production cost
 
 short-run aggregate supply curve: shows positive relationship, time period when production costs are fixed  
 
-![sras_curve] (images/sras_curve.gif)
-
 movement down SRAS curve -> deflation, lower aggregate output
 
 ### Shifts of the Short-Run Aggregate Supply Curve 
@@ -41,8 +39,6 @@ in long run, no affect of aggregate price level on quantity of aggregate output 
 
 long-run aggregate supply curve: shows constant relationship, time period when production costs are flexible 
 
-![lras_curve] (images/lras_curve.jpg)
-
 potential output: level of real GDP economy would produce if all prices, including nominal wages, were fully flexible  
 actual potential output fluctuates around potential output 
 
@@ -59,3 +55,5 @@ economy exists in one of two states
 
 SRAS curve shifts over time until economy is at point where curves cross  
 actual aggregate output = potential output
+
+![sras_lras] (images/sras_lras.gif)
