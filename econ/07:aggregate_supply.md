@@ -47,6 +47,7 @@ long-run growth
 + increases in resource quantity (land, labor, capital, entrepreneurship)
 + increases in resource quality, better-educated workforce
 + technological progress
+-> same factors shift PPC outward
 
 ## From Short-Run to Long-Run
 
