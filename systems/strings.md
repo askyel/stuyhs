@@ -1,7 +1,7 @@
 ### AIM: Let's take this to delimit!
 
 **strsep** - &lt;string.h&gt;  
-used for parsing a string with a common delimeter 
+used for parsing a string with a common delimeter   
 '''c  
 strsep( <SOURCE>, <DELIMETER> )
 '''  
