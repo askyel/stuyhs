@@ -54,8 +54,17 @@ long-run growth
 economy exists in one of two states  
 + on both SRAS and LRAS curves, at point where curves cross
 + on only SRAS curve
+    + aggregate demand shifted outward/inward
+    + aggregate supply shifted outward/inward (decrease/increase in input prices)
 
 SRAS curve shifts over time until economy is at point where curves cross  
 actual aggregate output = potential output
 
 ![sras_lras] (images/sras_lras.gif)
+
+all factors that shift LRAS also shift SRAS  
+changes in input prices only shift SRAS  
+
+shifting right on real GDP axis -> falling unemployment  
+shifting left on real GDP axis -> rising unemployment  
+natural unemployment rate at potential output  
