@@ -15,6 +15,24 @@ def inc(x):
 	return x+1
 ```
 
+pyco - creates html file of documentation
+
+pydoc - built-in create doc function
+
+epydoc - Javadoc look for python 
+
+Sphinx - support for python, C++, some Javascript
++ complete documentation system
++ used to generate flask and jinja documentation
++ also tests code
++ coverage checks (checks documentation for every function)
++ can convert documentation to pdf format
+
+```
+$ pip install sphinx
+$ sphinx-quickstart
+```
+
 ## C Documentation
 
 ```c
