@@ -4,7 +4,7 @@ Javadoc pulls special documentation format into webpage
 
 ## C Documentation
 
-'''c
+```c
 
 /*-------- mod.c ----------*/
 /*
@@ -46,6 +46,6 @@ int function f2(int a, int b) {
 	return a + b;
 }
 
-'''
+```
 
 
