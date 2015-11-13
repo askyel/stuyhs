@@ -68,3 +68,5 @@ changes in input prices only shift SRAS
 shifting right on real GDP axis -> falling unemployment  
 shifting left on real GDP axis -> rising unemployment  
 natural unemployment rate at potential output  
+
+natural unemployment = full unemployment (no cyclical unemployment)  
