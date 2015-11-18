@@ -9,4 +9,16 @@ shortages and surpluses create pressures toward equilibrium, through changing pr
 Negative Supply Shock: leads to stagflation (inflation, but no economic growth)
 
 Positive Supply Shock: leads to higher output, less upward pressure on prices  
++ late 90s: "Goldilocks" economy
+ 
+## Income
+
+### Income Categories
+wages and salaries
+property income
++ profit
++ interest
++ rent
+
+
 
