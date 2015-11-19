@@ -105,18 +105,36 @@ factors that cause investment spending to decrease:
  
 ## Aggregate Demand Curve 
 
-while income was indp variable for consumption function, income is exogenous for demand function 
+aggregate demand curve: relationship between *aggregate price level* and *quantity of aggregate output*
 
-Why is aggregate demand curv downward sloping?  
-Wealth Effect: value of wealth increases, spending increases  
-Interest Rate Effect:  
-Foreign Purchases Effect: 
+![agg_demand_curve] (images/agg_demand_curve.png)
+
+### Causes of Demand Curve Downward Slope
+
+**wealth effect**: change in aggregate price level due to change in consumer spending from difference in purchasing power of consumers' assets
+
+**interest rate effect**: change in aggregate price level due to change in investment and consumer spending from altered interest rates affecting demand for money
 
 ### Shifts of Aggregate Demand Function
 
-delta C, I, G, X - M  
-expectations  
-wealth  
-capital utilization rate  
-fiscal policy  
-monetary policy (interest rate)   
+change in aggregate price level causes movement along aggregate demand curve
+
+#### Changes in Expectations
+consumers and firms become more optimistic -> aggregate demand increases  
+consumers and firms become more pessimistic -> aggregate demand decreases
+
+#### Changes in Wealth
+real value of household assests rises -> aggregate demand increases  
+real value of household assets falls -> aggregate demand decreases 
+
+#### Size of Existing Physical Capital
+existing stock is small -> aggregate demand increases  
+existing stock is large -> aggregate demand decreases
+
+#### Fiscal Policy
+government increases spending or cuts taxes -> aggregate demand increases  
+government reduces spending or raises taxes -> aggregate demand decreases
+
+#### Monetary Policy
+central bank increases money quantity -> aggregate demand increases  
+central bank decreases money quantity -> aggregate demand decreases
