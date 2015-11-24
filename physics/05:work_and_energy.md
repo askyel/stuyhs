@@ -105,3 +105,30 @@ center of mass: point at which mass is concentrated, at center of uniform object
 #### Extended Object 
 
 ![cm_object] (images/cm_object.gif)
+
+### Rocket Equations
+
+![rocket] (images/rocket.png)
+
+F<sub>ex</sub> = dP/dt = m(dV/dt) + v<sub>ex</sub>(dm/dt)
+
+#### Case 1: Rocket in free space.
+
+F<sub>ex</sub> = 0
+
+v<sub>f</sub> = v<sub>i</sub> + v<sub>ex</sub>ln(m<sub>i</sub>/m<sub>f</sub>)
+
+#### Case 2: Rocket is moving upward against gravity.
+
+F<sub>ex</sub> = mg
+
+v<sub>f</sub> = v<sub>i</sub> - gt + v<sub>ex</sub>ln(m<sub>i</sub>/m<sub>f</sub>)
+
+### Collisions
+
+|   | Elastic   | Inelastic     | 
+|---|-----------|---------------|
+| P | conserved | conserved     |
+| E | conserved | not conserved |
+
+
