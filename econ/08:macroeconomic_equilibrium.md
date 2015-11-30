@@ -73,8 +73,16 @@ lump-sum taxes: taxes independent of taxpayer's income
 taxes dependent positively on real GDP reduce multiplier size
 
 automatic stabilizers: government spending/taxation rules causing fiscal policy to be automatically expansionary when economy contracts, contractionary when economy expands 
++ unemployment benefits
 
 discretionary fiscal policy: fiscal policy resulting from deliberate actions by policy makers rather than rules
 
 "Neoclassical Synthesis"
 
+## Lags in Fiscal Policy
+
+Recognition Lag
+
+Decision Lag
+
+Implementation Lag
