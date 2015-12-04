@@ -14,7 +14,7 @@ cause aggregate PL and output to move in same direction
 negative demand shock: shifts AD curve leftwards, reducing aggregate PL and output  
 positive demand shock: shifts AD curve rightwards, increasing aggregate PL and output
 
-!(demand_shock) [images/demand_shock.png]
+![demand_shock] (images/demand_shock.png)
 
 ### Shifts of SRAS
 
@@ -27,13 +27,13 @@ negative supply shock: shifts SRAS curve left, increasing aggregate PL and reduc
 positive supply shock: shifts SRAS curve right, reducing aggregate PL and increasing aggregate output
 + reduces production costs and increases quantity suppliers are willing to sell
 
-!(supply_shock) [images/supply_shock.gif]
+![supply_shock] (images/supply_shock.gif)
 
 ### Long-Run Macroeconomic Equilibrium
 
 long-run macroeconomic equilibrium: when point of short-run macroeconomic equilibrium is on LRAS
 
-!(lr_equil) [images/lr_equil.png]
+![lr_equil] (images/lr_equil.png)
 
 recessionary gap: when aggregate output is below potential output  
 + correponds with high unemployment
