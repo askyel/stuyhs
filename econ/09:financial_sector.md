@@ -116,3 +116,61 @@ generates gains from trade by making indirect exchange possible
 monetary aggregates: overall measure of the money supply 
 
 ![money_agg] (images/money_agg.png)
+
+## The Time Value of Money
+
+present value: $1 -> $1/(1 + r)^N, r is interest rate, N is number of years
+
+net present value: present value of current and future benefits minus present value of current and future costs
+
+## Banking and Money Creation
+
+### The Monetary Role of Banks
+
+banks create liquidity by providing depositors with liquid assets and investing depositors' funds in illiquid assets
+
+bank reserves: currency banks hold in their vaults plus deposits at the Federal Reserve
+
+T-account: tool for analyzing business's financial position, business's assets (left) and liabilities (right)
+
+reserve ratio: fraction of bank deposits that bank holds as reserves
+
+required reserve ratio: smallest fraction of deposits Federal Reserve allows banks to hold (10% in the USA)
+
+### Bank Runs
+
+usually only a small fraction of depositors wish to withdraw funds simultaneously  
+if a larger share of depositors demanded money, bank would fail to meet those demands  
+most of depositor's funds are converted into loans (illiquid)  
+
+bank run: many of bank's depositors try to withdraw their funds due to fear of a bank failure 
+
+### Bank Regulation
+
+**deposit insurance**: guarantee that depositors will be paid, even if bank can't produce funds, up to max per account
+
+**capital requirement**: owners of banks must hold substantially more assets than value of bank deposits
+
+**reserve requirement**: rules determining required reserve ratio for banks
+
+**discount window**: Federal Reserve is on demand to lend money to banks (avoid selling of bank assets)
+
+### Determining the Money Supply
+
+*How Banks Create Money*  
+- initial deposit (no change in money supply)
+- percentage of deposit loaned out (increase in money supply by amount of loan)
+- spent loan deposited by seller (no change in money supply)
+- percentage of new deposit loaned out (proportional increase in money supply) ...
+
+excess reserves: bank's reserves beyond its required reserves
+
+monetary base: sum of currency in circulation and bank reserves
+
+money multiplier: ratio of money supply to monetary base
+
+banking multiplier (money multiplier) = 1 / reserve ratio  
+change in excess reserves * money multiplier = change in money supply
+
+![money_venn] (images/money_venn.jpg)
+
