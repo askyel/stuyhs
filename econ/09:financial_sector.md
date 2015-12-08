@@ -149,11 +149,11 @@ bank run: many of bank's depositors try to withdraw their funds due to fear of a
 
 **deposit insurance**: guarantee that depositors will be paid, even if bank can't produce funds, up to max per account
 
-**capital requirement**: owners of banks must hold substantially more assets than value of bank deposits
+**capital requirement**: owners of banks must hold substantially more assets than value of bank deposits, net worth (7%)
 
-**reserve requirement**: rules determining required reserve ratio for banks
+**reserve requirement**: rules determining required reserve ratio for banks (10%)
 
-**discount window**: Federal Reserve is on demand to lend money to banks (avoid selling of bank assets)
+**discount window**: Federal Reserve is on demand to lend money to banks (avoid selling of bank assets), discount rate is interest rate
 
 ### Determining the Money Supply
 
@@ -173,4 +173,51 @@ banking multiplier (money multiplier) = 1 / reserve ratio
 change in excess reserves * money multiplier = change in money supply
 
 ![money_venn] (images/money_venn.jpg)
+
+## The Money Market
+
+### The Demand for Money
+
+#### Opportunity Cost of Holding Money
+
+Liquid currency provides convenience, but earns no interest
+
+short-term interest rates: rates on financial assets that mature within a year
+
+long-term interest rates: rates on financial assets that mature a number of years later
+
+#### Money Demand Curve
+
+money demand curve: relationship between quantity of money demanded and interest rate
+
+![money_demand] (images/money_demand.gif)
+
+higher interest rate increases opportunity cost of holding money 
+
+#### Shifts of Money Demand Curve
+
+**Changes in Aggregate Price Level**  
+higher prices increase demand for money  
+lower prices decrease demand for money  
+
+**Changes in Real GDP**  
+increased GDP increases demand for money  
+decreased GDP decreases demand for money
+
+**Changes in Technology**  
+advances in technology decreases demand for money  
+
+**Changes in Institutions**  
+bank interest on checking accounts increases demand for money
+
+### Money and Interest Rates
+
+#### Equilibrium Interest Rate
+
+liquidity preference model of interest rate: interest rate determined by supply and demand for money 
+
+money supply curve: how quantity of money supplied varies with interest rate
+
+![money_curve] (images/money_curve.gif)
+
 
