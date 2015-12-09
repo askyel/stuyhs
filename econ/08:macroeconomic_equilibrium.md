@@ -63,6 +63,8 @@ contractionary fiscal policy: reduces aggregate demand (eliminate inflationary g
 
 ## Fiscal Policy and the Multiplier
 
+Fiscal policy affects aggregate demand.
+
 multiplier: ratio of change in real GDP caused by autonomous change in aggregate spending to size of autonomous change
 
 change in government transfers or taxes shifts AD curve by less than equal-sized change in government purchases, causing smaller effect on real GDP

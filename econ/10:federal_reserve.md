@@ -17,6 +17,9 @@ serves as the central bank of the United States
 
 **Conducts Monetary Policy**
 
+Assets - government debt (treasury bills)  
+Liabilities - monetary base (currency in circulation and bank reserves)
+
 ### Federal Reserve Policies
 
 #### The Reserve Requirement
@@ -24,6 +27,7 @@ serves as the central bank of the United States
 federal funds market: allows banks that fall short of reserve requirement to borrow funds from banks with excess reserves
 
 federal funds rate: interest rate determined in the federal funds market
++ high federal funds rate lowers amount of money loaned out, increases average interest rate for individual customers
 
 lowering the required reserve ratio increases the money supply, increasing the required reserve ratio decreases the money supply
 

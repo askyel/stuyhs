@@ -2,8 +2,6 @@
 
 ## History
 
-Created by **Douglas Crockford**
-
 world's most popular programming language
 
 combination of Java, Scheme, and Self
@@ -46,4 +44,30 @@ style
 ```javascript
 var x = 20;
 var l = [10,20,30,"hello",30.3];
+```
+
+## Tips
+
+Store function in variable for more flexibility.
+
+## Functions
+
+```javascript
+document.getElementByTagName("h1");
+``` 
+returns items with h1 tag
+
+```javascript
+document.createElement("li");
+``` 
+creates li element
+
+## Events
+
+```javascript
+var addMouseEvents = function(item){
+	item.addEventListener('mouseover',function(e)){
+		this.classList.toggle('blue')
+	};
+};
 ```
