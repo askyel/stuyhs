@@ -1,4 +1,5 @@
 ### AIM: How do we flag down a resource?
+### AIM: Turn down or up?
 
 #### Semaphores (created by Edsger Dijkstra)
 
@@ -42,3 +43,38 @@ FLAGS -- see shared memory flags
 int semd;
 semd = semget( ftok("file/dir", 2), 1, 0664 | IPC_CREAT );
 ```
+
+**semop**  
+Perform semaphore operations (like Up/Down)  
+All operations performed via semop are atomic  
+`semop( <DESCRIPTOR>, <OPERATION>, <AMOUNT> )`  
+AMOUNT -- amount of semaphores you want to operate on in the semaphore set  
+OPERATION -- pointer to a struct sembuf  
+```c
+struct sembuf {
+	short sem_op;  // -1 (Down) or 1 (Up), you can use any -/+ number, 0 blocks until the semaphore reaches 0 
+	short sem_num;  // index of the semaphore you want to work on
+	short sem_flag;  // further options 
+};
+```  
+**sem_flag**  
+SEM_UNDO -- Allow OS to undo given operation, useful in the event that a program exits  
+IPC_NOWAIT -- doesn't wait fo semaphore to be available to return error  
+
+```c
+int key = ftok("makefile", 'a');
+semid = semget( key, 1, 0644);
+printf("Before access... \n");
+
+struct sembuf sb;
+sb.sem_num = 0;
+sb.sem_flg = SEM_UNDO;
+sb.sem_op = -1;
+
+semop( semid, &sb, 1 );
+int i = 10;
+while ( i-- ) {
+printf("I'm in \n");
+sleep(1);
+}
+
