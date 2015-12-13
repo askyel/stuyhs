@@ -50,4 +50,7 @@ Federal Reserve liabilities - monetary base (currency in circulation and bank re
 increase monetary base by purchasing treasury bills from commercial banks -> increases money supply  
 decrease monetary base by selling treasury bills to commercial banks -> decreases money supply
 
+money multiplier = 1 / reserve ratio = checkable deposits / reserves  
+after the 2008 recession, US has more on reserve than in checkable deposits
 
+quantitative casing

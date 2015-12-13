@@ -184,7 +184,7 @@ Liquid currency provides convenience, but earns no interest
 
 short-term interest rates: rates on financial assets that mature within a year
 
-long-term interest rates: rates on financial assets that mature a number of years later
+long-term interest rates: rates on financial assets that mature a number of years later, generally higher than short-term rates
 
 #### Money Demand Curve
 
@@ -193,6 +193,10 @@ money demand curve: relationship between quantity of money demanded and interest
 ![money_demand] (images/money_demand.gif)
 
 higher interest rate increases opportunity cost of holding money 
+
+*nominal interest rate on the y-axis*
+
+use interest-bearing assets to buy money
 
 #### Shifts of Money Demand Curve
 
