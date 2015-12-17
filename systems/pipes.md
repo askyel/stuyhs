@@ -49,3 +49,50 @@ mkfifo
 Shell command to make a FIFO  
 `$ mkfifo <pipe name>`  
 
+### AIM: A pipe by any other name...
+
+### Named Pipes
+
+mkfifo - `<sys/types.h> <sys/stat.h>`  
+c function to create a FIFO  
+Returns 0 on success and -1 on failure.  
+Once created, the FIFO acts like a regular file, and we can use open, read, write, and close on it. 
+`mkfifo( <name>, <permissions> )`
+
+```c
+int main() {
+	
+	int from_client;
+	int e;
+
+	e = mkfifo( "mario", 0644 );
+	printf("<server> pipe created: %d\n", e);
+
+	from_client = open( "mario", O_RDONLY );
+	printf( "<server> pipe open\n" );
+	remove("mario");
+
+	read( from_client, line, sizeof(line) );
+	printf( "<server> read: [%s]\n", line );
+
+	close(from_client);
+
+	return 0;
+}
+```
+
+```c
+int main() {
+
+	int to_server;
+	char line[100];
+
+	to_server = open( "mario", O_WRONLY );
+	printf( "<client> pipe open\n");
+
+	printf("<client> enter stuff: ");
+	fgets( line, sizeof(line), stdin );
+
+	return 0;
+}
+```
