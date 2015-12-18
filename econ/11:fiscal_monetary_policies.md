@@ -28,3 +28,34 @@ deficits place financial pressure on future budgets
 debt-GDP ratio: government's debt as % of GDP
 
 impact liabilities: spending promises made by governments (effectively debt)
+
+## Monetary Policy and the Interest Rate
+
+### Monetary Policy and the Interest Rate
+
+target federal funds rate: desired level for federal funds rate, Fed adjusts money supply through open-market operations  
+open-market purchase of bonds -> increase in money supply  
+open-market sale of bonds -> decrease in money supply
+
+![shift_interest.gif] (images/shift_interest.gif)
+
+### Monetary Policy and Aggregate Demand
+
+
+expansionary monetary policy: monetary policy that increases aggregate demand  
+Fed expands money supply -> lower interest rate -> more spending -> higher real GDP
+
+contractionary monetary policy: monetary policy that reduces aggregate demand  
+Fed contracts money supply -> higher interest rate -> less spending -> lower real GDP
+
+### Monetary Policy in Practice
+
+policy makers aim to stabilize prices, maintain low inflation
+
+expansionary policy, lower interest rate, when real GDP is below potential output (smaller output gap)
+
+contractionary policy, higher interest rate, when real GDP is above potential output (larger output gap)
+
+Taylor rule for monetary policy: federal funds rate = 1 + (1.5 * inflation rate) + (0.5 * output gap)
+
+inflation targeting: central bank sets explicit target for inflation rate, sets monetary policy to hit that target
