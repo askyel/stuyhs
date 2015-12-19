@@ -38,3 +38,40 @@ int server_handshake( int *from_client ) {
 
 }
 ``` 
+
+### AIM: Sometimes you have to ask your server for another fork
+
+#### Basic Server  
+1 Basic handshake  
+2 Server gets data from client, "processes" it and sends back a response  
+3 Once client exits, the server recreates a new WKP, removes the old client connections and the steps restart  
+
+```c
+while(1) {
+	printf("<server> waiting for connection\n");
+	to_client = server_handshake( &from_client );
+
+	while( read( from_client, buffer, sizeof(buffer) ) ) {
+		printf("<server> received [%s]\n", buffer);
+		process(buffer);
+		write(to_client, buffer, sizeof(buffer));
+
+		strncpy(buffer, "", sizeof(buffer));
+	}
+}
+```
+
+#### Forking Server
+
+Main server forks off dedicated subservers for each client connection.
+
+Allows for multiple simultaneous clients.
+
+Handshake procedure is modified on the server:  
+
+1 - 6 are the same  
+7 Server forks off a subserver.  
+8 *Subserver* connects to a client pipe, sending an initial acknowledgement message.  
+
+After the handshake:  
+Main server creates a new WKP and waits for a new client.  
