@@ -75,3 +75,10 @@ Handshake procedure is modified on the server:
 
 After the handshake:  
 Main server creates a new WKP and waits for a new client.  
+
+#### Central Dispatch Server
+
+server --> subserver 1 --> client 1 --> well-known pipe --> server  
+server --> subserver 2 --> client 2 --> well-known pipe --> server  
+server: one read end and one write end unnamed pipe for each subserver  
+server handles all incoming connections  
