@@ -39,8 +39,21 @@ open-market sale of bonds -> decrease in money supply
 
 ![shift_interest.gif] (images/shift_interest.gif)
 
-### Monetary Policy and Aggregate Demand
+Real Interest = Nominal Interest - Inflation
 
+r% = i% - &pi;%
+
+**The Fisher Effect**  
+expected real interest is unaffected by changes in expected inflation  
+becuase those expectations shift supply left and demand right  
+
+Nominal Interest = Expected Real Interest + Expected Inflation  
+
+i% = exp. r% + exp &pi;%  
+
+implication: the loanable funds market (in real terms) is not affected by change in expected inflation  
+
+### Monetary Policy and Aggregate Demand
 
 expansionary monetary policy: monetary policy that increases aggregate demand  
 Fed expands money supply -> lower interest rate -> more spending -> higher real GDP
