@@ -22,3 +22,18 @@ Surplus is not necessarily beneficial - stimulus, unnecessary production volume?
 Discretionary Policy: 
 
 Nondiscretionary Policy: automatic stabilizers, cyclically based 
+
+#### Budget Balance
+
+budget balance = tax revenues - (gov spending + transfers)
+
+cyclically adjusted budget balance: what would the budget balance be if real GDP were at potential output  
+if potential < real, amt of tax revenue less and transfers increase due to unemployment, greater deficit  
+if real > potential, even greater deficit with adjusted balance   
+
+gov investment spending - public infrastructure, education
+
+gov borrowing -> interest rates  
+private investment spending is crowded in by gov borrowing, expectations of future GDP increase   
+
+printing money causes the equilibrium price level to rise  
