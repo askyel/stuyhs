@@ -44,6 +44,21 @@ firms profit from spending in product market (total spending -> GDP )
 
 Why should the Fed raise interest rates?  
 
+expansionary policy -> lower interest rates  
+liquidity trap: reached 0 lower bound on interest rates, no expansionary monetary policy possible
+
+lower income households more likely to borrow, with debt deflation aggregate demand reduced, less spending  
+
+Great Depression - Soviet Union
+
+Keynes General Theory of Unemployment, Interest, and Money
+
+Friedman: keep money supply constant, business cycle unchanging
+
+Quantity Theory of Money
+
+MV = PY
+
 # Inflation and Unemployment
 
 ## History and Alternate Views of Macroeconomics
